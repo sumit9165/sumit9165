@@ -21,10 +21,14 @@
 - Docker (learning)
 
 ## 📂 Key Repositories
-- [90-days-of-devops](https://github.com/sumit9165/90-days-of-devops)
-- [shell-scripts](https://github.com/sumit9165/shell-scripts)
-- [python-scripts](https://github.com/sumit9165/python-scripts)
-- [devops-notes](https://github.com/sumit9165/devops-notes)
+- [90Days-Of-DevOps-with-TWS](https://github.com/sumit9165/90Days-Of-DevOps-with-TWS)
+- [shell-scripts](https://github.com/sumit9165/shell-script)
+- [python-scripts](https://github.com/sumit9165/python-script)
+- [Devops-notes](https://github.com/sumit9165/Devops-notes)
+- [github-actions-workflow](https://github.com/sumit9165/github-actions-workflow)
+- [sumit9165](https://github.com/sumit9165/sumit9165)
+- [devops-git-practice](https://github.com/sumit9165/devops-git-practice)
+- [DevOps_utilities_API](https://github.com/sumit9165/DevOps_utilities_API)
 
 ## 📫 Connect With Me
 - LinkedIn: (www.linkedin.com/in/sumit-3a9320333)
